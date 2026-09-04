@@ -1,13 +1,10 @@
 <?php
 /**
  * Plugin Name: CEN Community Sync
- * Description: Matches source-site WordPress users by email and syncs selected ACF fields.
- * Version: 1.5.2
- * Requires at least: 6.0
- * Requires PHP: 7.4
- * Author: CEN
- * License: GPL-2.0-or-later
- * Text Domain: cen-community-sync
+ * Description: Sync data from one WordPress site to another. ACF fields and BuddyBoss extended profile fields.
+ * Version: 1.0.0
+ * Author: FirstTracks Marketing
+ * Author URI: https://firsttracksmarketing.com
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
